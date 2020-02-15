@@ -9,6 +9,8 @@ name = "test_lexer"
 
 [build-dependencies]
 lrlex = "0.5"
+lrpar = "0.5"
 
 [dependencies]
 lrlex = "0.5"
+lrpar = "0.5"
