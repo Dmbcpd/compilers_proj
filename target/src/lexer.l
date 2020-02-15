@@ -1,7 +1,7 @@
 %%
 [A-Za-z][A-Za-z0-9_]* "NAME"
 [0-9]+ "NUMBER"
-'.' "QCHAR"
+\'.\' "QCHAR"
 \\\\.*\n "COMMENT"
 [+-]?[1-9][0-9]*|0 "INT"
 if "IF"
